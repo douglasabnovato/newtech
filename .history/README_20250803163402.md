@@ -1,10 +1,10 @@
 # new TECH | Um ecossistema digital
 
-Um portal de uma startup de tecnologia e inovação.
+O ECOSSISTEMA de tecnologia, ensino, computação e humano. 
 
 ## O projeto
 
-Um Ecossistema para Developer / Tech Growth.
+para Developer / Tech Growth.
 
 ### Partes do projeto
 
